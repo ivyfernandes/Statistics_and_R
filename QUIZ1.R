@@ -29,3 +29,4 @@ dist85
 which(dist85)
 which(dist85,arr.ind=TRUE)
 
+
